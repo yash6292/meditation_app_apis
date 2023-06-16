@@ -56,7 +56,7 @@
           "music_url": "https://devkaranjurad.github.io/sleep_music_data/body-amp-soul-7998.mp3"
         }
       ],
-      "Vehicle": [
+      "Nature": [
         {
           "id": "1",
           "isNativeAd": false,
@@ -92,7 +92,7 @@
           "music_url": "https://devkaranjurad.github.io/sleep_music_data/body-amp-soul-7998.mp3"
         }
       ],
-      "Ocean": [
+      "God": [
         {
           "id": "1",
           "isNativeAd": false,
@@ -110,7 +110,7 @@
           "music_url": "https://devkaranjurad.github.io/sleep_music_data/body-amp-soul-7998.mp3"
         }
       ],
-      "Fire": [
+      "Forest": [
         {
           "id": "1",
           "isNativeAd": false,
@@ -182,7 +182,7 @@
           "music_url": "https://devkaranjurad.github.io/sleep_music_data/body-amp-soul-7998.mp3"
         }
       ],
-      "God": [
+      "Fire": [
         {
           "id": "1",
           "isNativeAd": false,
@@ -200,7 +200,7 @@
           "music_url": "https://devkaranjurad.github.io/sleep_music_data/body-amp-soul-7998.mp3"
         }
       ],
-      "Forest": [
+      "Vehicle": [
         {
           "id": "1",
           "isNativeAd": false,
