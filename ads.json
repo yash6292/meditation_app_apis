@@ -11,23 +11,15 @@
     "native_ad_id": "ca-app-pub-3940256099942544/2247696110",
     "banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
     "getStarted": true,
-    "homeMain": true,
-    "homeBack": false,
     "categoryMain": true,
     "categoryBack": false,
     "settingIcon": true,
     "settingBack": false,
-    "gameListMain": true,
-    "gameListBack": false,
-    "recentPlay": true,
-    "rateUs": false,
-    "shareApp": true,
-    "playMain": true,
-    "playBack": false,
-    "playSimilar": true,
-    "play2Main": true,
-    "play2Back": false,
-    "play2Similar": true
+    "music_list_main": true,
+    "music_list_back": false,
+    "music_player_back": false,
+    "start_timer": true,
+    "exit_dialog": false
   },
   "ads_data": {
     "home_page": {
