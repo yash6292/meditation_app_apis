@@ -1,51 +1,58 @@
 {
-"status": "success",
-"data": {
-"adsClickLimit": "2",
-"isAdVisible": "1",
-"isAdVisibleLimit": "1",
-"bannerFlag": true,
-"bannerShow": true,
-"flag1": true,
-"flag2": true,
-"flag3": true,
-"flag4": true,
-"flag5": true,
-"flag6": true,
-"flag7": true,
-"flag8": true,
-"flag9": true,
-"flag10": true,
-"flag11": true,
-"flag12": true,
-"flag13": true,
-"flag14": true,
-"flag15": true,
-"flag16": true,
-"flag17": true,
-"flag18": true,
-"flag19": true,
-"flag20": true,
-"google_ad_show": true,
-"onlineMrecCount": 5,
-"offlineMrecCount": 5,
-"bannerId": "8cb7acd089752646",
-"bannerMediationId": "8cb7acd089752646",
-"openAdID": "7f1aaeabeb14682e",
-"interAdID": "394ca20d85458b1a394ca20d85458b1a",
-"interMediationAdID": "394ca20d85458b1a394ca20d85458b1a",
-"mrecAdId": "fghgfhcfgdfh165vx65"
-},
-"ads_data": {
-"id": "1",
-"hash_tag": "Use after vibration",
-"title": "Sleep, Meditate, Relax Mindful Meditation",
-"image_url": "https://play-lh.googleusercontent.com/hFIn0WnVrzanuzkFrknd3Sb7RwMhDgwmsg8K-va6rLai1Zpy1eforMMoz3409b7praI",
-"app_url": "https://play.google.com/store/apps/details?id=com.meditationmusicapp.sleepanandapps",
-"app_version": "1.0.1",
-"btn_val": "Listen Now",
-"cus_ad_title": "All New Games",
-"cus_ad_des": "Play all category games",
-"cus_ad_image": "https://play-lh.googleusercontent.com/RMYZ3BTbvqWFtef5jw1iqXfIzsl0CUhUDX_KVd4Y4JA9i9uPpGf_qJkLq7lnCCvnYfY=w240-h480-rw"
+  "status": "success",
+  "data": {
+    "adsclicklimit": "1",
+    "app_title": "Relaxing Sounds for Best Sleep",
+    "app_url": "https://play.google.com/store/apps/details?id=com.sleepsoundsapp.relaxingsleep",
+    "app_version": "1.0.1",
+    "more_apps_url": "https://play.google.com/store/apps/developer?id=Pinecals+Apps",
+    "open_ad_id": "ca-app-pub-3940256099942544/3419835294",
+    "inter_ad_id": "ca-app-pub-3940256099942544/1033173712",
+    "native_ad_id": "ca-app-pub-3940256099942544/2247696110",
+    "banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
+    "getStarted": true,
+    "homeMain": true,
+    "homeBack": false,
+    "categoryMain": true,
+    "categoryBack": false,
+    "settingIcon": true,
+    "settingBack": false,
+    "gameListMain": true,
+    "gameListBack": false,
+    "recentPlay": true,
+    "rateUs": false,
+    "shareApp": true,
+    "playMain": true,
+    "playBack": false,
+    "playSimilar": true,
+    "play2Main": true,
+    "play2Back": false,
+    "play2Similar": true
+  },
+  "ads_data": {
+    "home_page": {
+      "app_url": "https://play.google.com/store/apps/details?id=com.movies.allhdmovies",
+      "img_url": "https://play-lh.googleusercontent.com/3hJuP1VydcYGYwQZNYaB5L0T5shK2yxlLLvhSnvVuc6SHTMyoMYrdyTfeVTtuTKLrSU=w240-h480-rw",
+      "app_name": "All HD Movies: Watch Online",
+      "sub_title": "Install this All HD Movies: Watch Online"
+    },
+    "cat_page": {
+      "app_url": "https://play.google.com/store/apps/details?id=com.movies.allhdmovies",
+      "img_url": "https://play-lh.googleusercontent.com/3hJuP1VydcYGYwQZNYaB5L0T5shK2yxlLLvhSnvVuc6SHTMyoMYrdyTfeVTtuTKLrSU=w240-h480-rw",
+      "app_name": "All HD Movies: Watch Online",
+      "sub_title": "Install this All HD Movies: Watch Online"
+    },
+    "game_page": {
+      "app_url": "https://play.google.com/store/apps/details?id=com.movies.allhdmovies",
+      "img_url": "https://play-lh.googleusercontent.com/3hJuP1VydcYGYwQZNYaB5L0T5shK2yxlLLvhSnvVuc6SHTMyoMYrdyTfeVTtuTKLrSU=w240-h480-rw",
+      "app_name": "All HD Movies: Watch Online",
+      "sub_title": "Install this All HD Movies: Watch Online"
+    },
+    "setting_page": {
+      "app_url": "https://play.google.com/store/apps/details?id=com.ringtone.mahadevringtone",
+      "img_url": "https://play-lh.googleusercontent.com/JO9DO5q0juBiAWT-G7K80XtpMsQInbpZxK-pzCw_awlmT-gIScy83Bp8TmgHTNQJiX8=w240-h480-rw",
+      "app_name": "Mahadev Ringtones शिव रिंगटोन",
+      "sub_title": "Install this Mahadev Ringtones शिव रिंगटोन"
+    }
+  }
 }
-}l̥
