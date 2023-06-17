@@ -7,7 +7,7 @@
           "id": "1",
           "isNativeAd": false,
           "music_name": "cozy forest",
-          "musicImageSquare": "https://devkaranjurad.github.io/sleep_music_data/sleep (100).jpeg",
+          "musicImageSquare": "https://images.unsplash.com/photo-1536928994169-e339332d0b4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8&w=1000&q=80",
           "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
           "music_url": "https://devkaranjurad.github.io/sleep_music_data/black-box-cozy-forest-122347.mp3"
         },
@@ -16,6 +16,22 @@
           "isNativeAd": false,
           "music_name": "body soul",
           "musicImageSquare": "https://devkaranjurad.github.io/sleep_music_data/sleep (4).jpeg",
+          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
+          "music_url": "https://devkaranjurad.github.io/sleep_music_data/body-amp-soul-7998.mp3"
+        },
+        {
+          "id": "1",
+          "isNativeAd": false,
+          "music_name": "cozy forest",
+          "musicImageSquare": "https://devkaranjurad.github.io/sleep_music_data/sleep (100).jpeg",
+          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
+          "music_url": "https://devkaranjurad.github.io/sleep_music_data/black-box-cozy-forest-122347.mp3"
+        },
+        {
+          "id": "1",
+          "isNativeAd": false,
+          "music_name": "body soul",
+          "musicImageSquare": "https://images.unsplash.com/photo-1536928994169-e339332d0b4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8&w=1000&q=80",
           "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
           "music_url": "https://devkaranjurad.github.io/sleep_music_data/body-amp-soul-7998.mp3"
         },
