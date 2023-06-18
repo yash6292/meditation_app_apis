@@ -19,7 +19,8 @@
     "music_list_back": false,
     "music_player_back": false,
     "start_timer": true,
-    "exit_dialog": false
+    "exit_dialog": false,
+    "mini_player": true
   },
   "ads_data": {
     "home_page": {
