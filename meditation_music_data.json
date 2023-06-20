@@ -350,14 +350,6 @@
         {
           "id": "1",
           "isNativeAd": false,
-          "music_name": "Darkness Ambient",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image109.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/the-velvet-darkness-ambient-soundscape-135395.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
           "music_name": "Slow Drift",
           "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image121.jpg",
           "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
@@ -378,14 +370,6 @@
           "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image109.jpg",
           "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
           "music_url": "https://devkaranjurad.github.io/sleep_music_data/the-light-of-the-universe-ambient-soundscape-25938.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Darkness Ambient",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image109.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/the-velvet-darkness-ambient-soundscape-135395.mp3"
         },
         {
           "id": "1",
@@ -1089,7 +1073,7 @@
           "music_name": "Fire Burning",
           "musicImageSquare": "https://yash6292.github.io/meditation_app_data/fire2.jpg",
           "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/fire-burning-loop-6135.mp3"
+          "music_url": "https://yash6292.github.io/meditation_app_data/fire-burning-loop-6135.mp3"
         },
         {
           "id": "1",
@@ -1097,7 +1081,7 @@
           "music_name": "Fire Sound",
           "musicImageSquare": "https://yash6292.github.io/meditation_app_data/fire3.jpg",
           "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/fire-sound-efftect-21991.mp3"
+          "music_url": "https://yash6292.github.io/meditation_app_data/fire-sound-efftect-21991.mp3"
         },
         {
           "id": "1",
@@ -1105,7 +1089,7 @@
           "music_name": "Campfire",
           "musicImageSquare": "https://yash6292.github.io/meditation_app_data/fire4.jpg",
           "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/campfire-1.mp3"
+          "music_url": "https://yash6292.github.io/meditation_app_data/campfire-1.mp3"
         },
         {
           "id": "1",
@@ -1113,7 +1097,7 @@
           "music_name": "Campfire Crackling",
           "musicImageSquare": "https://yash6292.github.io/meditation_app_data/fire5.jpg",
           "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/campfire-crackling-fireplace-sound-119594.mp3\n"
+          "music_url": "https://yash6292.github.io/meditation_app_data/campfire-crackling-fireplace-sound-119594.mp3\n"
         },
         {
           "id": "1",
@@ -1256,26 +1240,10 @@
         {
           "id": "1",
           "isNativeAd": false,
-          "music_name": "Asian",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image10.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0057.%20Asian%20-%20AShamaluevMusic.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
           "music_name": "Digital Meditation",
           "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image123.jpg",
           "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
           "music_url": "https://devkaranjurad.github.io/sleep_music_data/digital-ambient-for-meditation-15967.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Recovery",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image12.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0081.%20Recovery%20-%20AShamaluevMusic.mp3"
         },
         {
           "id": "1",
@@ -1328,14 +1296,6 @@
         {
           "id": "1",
           "isNativeAd": false,
-          "music_name": "Feeling",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image16.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0113.%20Feeling%20-%20AShamaluevMusic.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
           "music_name": "Deep Meditation",
           "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image17.jpeg",
           "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
@@ -1368,15 +1328,7 @@
         {
           "id": "1",
           "isNativeAd": false,
-          "music_name": "Calm Lake",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image3.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0450.%20Calm%20Lake%20-%20AShamaluevMusic.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Peaceful",
+          "music_name": "Peaceful Breathing",
           "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image11.jpeg",
           "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
           "music_url": "https://yash6292.github.io/meditation_app_data/0452.%20Peaceful%20-%20AShamaluevMusic.mp3"
@@ -1432,22 +1384,6 @@
         {
           "id": "1",
           "isNativeAd": false,
-          "music_name": "My Home",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/images5.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0480.%20My%20Home%20-%20AShamaluevMusic.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Sands Of Time",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image102.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/sands-of-time-ambient-432hz-99489.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
           "music_name": "Lost In Space",
           "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image103.jpg",
           "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
@@ -1456,50 +1392,10 @@
         {
           "id": "1",
           "isNativeAd": false,
-          "music_name": "Cozy Forest",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image104.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/black-box-cozy-forest-122347.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Body Soul",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image105.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/body-amp-soul-7998.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
           "music_name": "Wanderlust",
           "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image108.jpg",
           "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
           "music_url": "https://devkaranjurad.github.io/sleep_music_data/wanderlust-ambient-soundscape-135399.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Darkness Ambient",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image109.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/the-velvet-darkness-ambient-soundscape-135395.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Meditation Calm",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image111.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/meditation-music-calm-relaxing-music-5152.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Relaxing Room",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image14.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0110.%20Relaxing%20Room%20-%20AShamaluevMusic.mp3"
         },
         {
           "id": "1",
@@ -1536,14 +1432,6 @@
         {
           "id": "1",
           "isNativeAd": false,
-          "music_name": "Darkness Ambient",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image109.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/the-velvet-darkness-ambient-soundscape-135395.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
           "music_name": "Slow Drift",
           "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image121.jpg",
           "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
@@ -1564,14 +1452,6 @@
           "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image109.jpg",
           "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
           "music_url": "https://devkaranjurad.github.io/sleep_music_data/the-light-of-the-universe-ambient-soundscape-25938.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Darkness Ambient",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image109.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/the-velvet-darkness-ambient-soundscape-135395.mp3"
         }
       ],
       "Sleep": [
@@ -1686,6 +1566,54 @@
           "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image160.jpg",
           "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
           "music_url": "https://devkaranjurad.github.io/sleep_music_data/rain-solace-10-mins-yoga-meditation-relaxation-2055.mp3"
+        },
+        {
+          "id": "1",
+          "isNativeAd": false,
+          "music_name": "My Home",
+          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/images5.jpg",
+          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
+          "music_url": "https://yash6292.github.io/meditation_app_data/0480.%20My%20Home%20-%20AShamaluevMusic.mp3"
+        },
+        {
+          "id": "1",
+          "isNativeAd": false,
+          "music_name": "Asian",
+          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image10.jpeg",
+          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
+          "music_url": "https://yash6292.github.io/meditation_app_data/0057.%20Asian%20-%20AShamaluevMusic.mp3"
+        },
+        {
+          "id": "1",
+          "isNativeAd": false,
+          "music_name": "Recovery",
+          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image12.jpeg",
+          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
+          "music_url": "https://yash6292.github.io/meditation_app_data/0081.%20Recovery%20-%20AShamaluevMusic.mp3"
+        },
+        {
+          "id": "1",
+          "isNativeAd": false,
+          "music_name": "Feeling",
+          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image16.jpeg",
+          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
+          "music_url": "https://yash6292.github.io/meditation_app_data/0113.%20Feeling%20-%20AShamaluevMusic.mp3"
+        },
+        {
+          "id": "1",
+          "isNativeAd": false,
+          "music_name": "Calm Lake",
+          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image3.jpeg",
+          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
+          "music_url": "https://yash6292.github.io/meditation_app_data/0450.%20Calm%20Lake%20-%20AShamaluevMusic.mp3"
+        },
+        {
+          "id": "1",
+          "isNativeAd": false,
+          "music_name": "Darkness Ambient",
+          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image109.jpg",
+          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
+          "music_url": "https://devkaranjurad.github.io/sleep_music_data/the-velvet-darkness-ambient-soundscape-135395.mp3"
         }
       ],
       "Nature": [
@@ -1780,8 +1708,16 @@
         {
           "id": "1",
           "isNativeAd": false,
+          "music_name": "Nature Calls",
+          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature13.jpg",
+          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
+          "music_url": "https://yash6292.github.io/meditation_app_data/night-woods-7012.mp3"
+        },
+        {
+          "id": "1",
+          "isNativeAd": false,
           "music_name": "MindFul Nature",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest13.jpg",
+          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature14.jpg",
           "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
           "music_url": "https://devkaranjurad.github.io/sleep_music_data/nature-99499.mp3"
         },
@@ -1894,6 +1830,14 @@
           "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest2.jpg",
           "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
           "music_url": "https://devkaranjurad.github.io/sleep_music_data/relax-in-the-frozen-forest-126589.mp3"
+        },
+        {
+          "id": "1",
+          "isNativeAd": false,
+          "music_name": "Cozy Forest",
+          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest14.jpg",
+          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
+          "music_url": "https://devkaranjurad.github.io/sleep_music_data/black-box-cozy-forest-122347.mp3"
         },
         {
           "id": "1",
@@ -2096,6 +2040,30 @@
           "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image145.jpg",
           "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
           "music_url": "https://devkaranjurad.github.io/sleep_music_data/its-a-meditation-119697.mp3"
+        },
+        {
+          "id": "1",
+          "isNativeAd": false,
+          "music_name": "Meditation Calm",
+          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image111.jpg",
+          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
+          "music_url": "https://devkaranjurad.github.io/sleep_music_data/meditation-music-calm-relaxing-music-5152.mp3"
+        },
+        {
+          "id": "1",
+          "isNativeAd": false,
+          "music_name": "Relaxing Room",
+          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image14.jpeg",
+          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
+          "music_url": "https://yash6292.github.io/meditation_app_data/0110.%20Relaxing%20Room%20-%20AShamaluevMusic.mp3"
+        },
+        {
+          "id": "1",
+          "isNativeAd": false,
+          "music_name": "Body Soul",
+          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image105.jpg",
+          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
+          "music_url": "https://devkaranjurad.github.io/sleep_music_data/body-amp-soul-7998.mp3"
         }
       ],
       "Animal": [
@@ -2293,7 +2261,7 @@
           "music_name": "Fire Burning",
           "musicImageSquare": "https://yash6292.github.io/meditation_app_data/fire2.jpg",
           "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/fire-burning-loop-6135.mp3"
+          "music_url": "https://yash6292.github.io/meditation_app_data/fire-burning-loop-6135.mp3"
         },
         {
           "id": "1",
@@ -2301,7 +2269,7 @@
           "music_name": "Fire Sound",
           "musicImageSquare": "https://yash6292.github.io/meditation_app_data/fire3.jpg",
           "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/fire-sound-efftect-21991.mp3"
+          "music_url": "https://yash6292.github.io/meditation_app_data/fire-sound-efftect-21991.mp3"
         },
         {
           "id": "1",
@@ -2309,7 +2277,7 @@
           "music_name": "Campfire",
           "musicImageSquare": "https://yash6292.github.io/meditation_app_data/fire4.jpg",
           "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/campfire-1.mp3"
+          "music_url": "https://yash6292.github.io/meditation_app_data/campfire-1.mp3"
         },
         {
           "id": "1",
@@ -2317,7 +2285,7 @@
           "music_name": "Campfire Crackling",
           "musicImageSquare": "https://yash6292.github.io/meditation_app_data/fire5.jpg",
           "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/campfire-crackling-fireplace-sound-119594.mp3\n"
+          "music_url": "https://yash6292.github.io/meditation_app_data/campfire-crackling-fireplace-sound-119594.mp3\n"
         }
       ],
       "Vehicle": [
